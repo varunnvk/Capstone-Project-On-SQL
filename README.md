@@ -1,5 +1,4 @@
-# varunkvk3
-## SQL Project
+# SQL Project
 ### Airline Database
 - The company wants to Calculate number of flights each period of the day.
 - Create period wise data, how many flights departure at morning, afternoon, evening, and night.
