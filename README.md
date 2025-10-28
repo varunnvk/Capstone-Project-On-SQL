@@ -25,9 +25,3 @@
 - The company wants to Calculate number of flights each period of the day. - Create period wise data, how many flights departure at morning, afternoon, evening, and night. - Action: Used SQL query and created new dataset. - Result: Arranged the flight departure time in day wise.
 
 ## Skills: PostgreSQL, Joins, Aggregations
-
-<img width="912" height="420" alt="image" src="https://github.com/user-attachments/assets/73f0a7d5-425c-4c25-98dd-495606410464" />
-
-<img width="694" height="321" alt="image" src="https://github.com/user-attachments/assets/60ad320d-c7ae-4895-b404-549d64da868b" />
-
-
